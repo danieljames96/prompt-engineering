@@ -1,0 +1,644 @@
+{
+    "dataset": [
+        {
+            "specification": "The BMW N55 engine, found in the 2024 BMW 335i, is engineered to deliver a minimum of 300 horsepower while maintaining a high level of fuel efficiency. This turbocharged inline-six engine includes advanced variable valve timing and direct fuel injection to enhance performance and reduce emissions.",
+            "metadata_tags": ["Engine", "BMW N55"]
+        },
+        {
+            "specification": "The Toyota Prius, model year 2024, is designed to achieve a fuel efficiency rating of at least 25 miles per gallon in city driving conditions. This hybrid vehicle combines a highly efficient 1.8L four-cylinder engine with an electric motor, utilizing regenerative braking to optimize fuel consumption and reduce overall environmental impact.",
+            "metadata_tags": ["Hybrid Vehicle", "Toyota Prius"]
+        },
+        {
+            "specification": "The Honda Civic's transmission system, available in the 2024 model, supports both manual and automatic driving modes. This feature allows drivers to choose between a traditional 6-speed manual transmission for a more engaging driving experience and a continuously variable transmission (CVT) for smoother and more efficient automatic shifting.",
+            "metadata_tags": ["Transmission System", "Honda Civic"]
+        },
+        {
+            "specification": "The Ford F-150's onboard navigation system includes a 10-inch touchscreen with real-time traffic updates and turn-by-turn directions. This system is integrated with voice recognition technology and provides seamless connectivity with smartphone applications for enhanced convenience and safety during driving.",
+            "metadata_tags": ["Navigation System", "Ford F-150"]
+        },
+        {
+            "specification": "The Tesla Model 3 is equipped with an advanced autopilot feature that includes adaptive cruise control, lane-keeping assist, and automatic emergency braking. This feature is designed to enhance driver safety by using multiple sensors and cameras to monitor and respond to road conditions in real-time.",
+            "metadata_tags": ["Autopilot", "Tesla Model 3"]
+        },
+        {
+            "specification": "The Audi Q7's air suspension system provides adjustable ride height and enhanced comfort by adapting to different driving conditions. The system allows drivers to select from various modes such as Comfort, Dynamic, and Off-Road, adjusting the suspension settings to improve handling and stability on different terrains.",
+            "metadata_tags": ["Air Suspension System", "Audi Q7"]
+        },
+        {
+            "specification": "The Mercedes-Benz S-Class features an innovative lighting system with adaptive LED headlights that automatically adjust their brightness and direction based on driving speed and road conditions. This technology enhances visibility and reduces glare for oncoming drivers, contributing to overall safety at night.",
+            "metadata_tags": ["Lighting System", "Mercedes-Benz S-Class"]
+        },
+        {
+            "specification": "The Chevrolet Camaro’s performance package includes upgraded brakes, a limited-slip differential, and sport-tuned suspension components. This package is designed to improve handling and cornering capabilities, providing a more engaging driving experience for enthusiasts who demand high levels of performance from their sports car.",
+            "metadata_tags": ["Performance Package", "Chevrolet Camaro"]
+        },
+        {
+            "specification": "The Subaru Outback's all-wheel-drive system features active torque vectoring to enhance traction and stability on various road surfaces. This system works by distributing power to the wheels with the most grip, improving performance in adverse weather conditions and off-road environments.",
+            "metadata_tags": ["All-Wheel-Drive System", "Subaru Outback"]
+        },
+        {
+            "specification": "The Jaguar XF comes with a premium audio system that includes a 16-speaker setup developed in collaboration with a renowned sound engineering company. The system offers exceptional audio clarity and a customizable sound experience, making it ideal for audiophiles seeking high-quality sound reproduction in their vehicle.",
+            "metadata_tags": ["Audio System", "Jaguar XF"]
+        },
+        {
+            "specification": "The Porsche 911 Turbo's braking system features high-performance ceramic composite brakes that provide superior stopping power and enhanced durability under extreme driving conditions. This system is designed to withstand high temperatures and offer consistent performance during aggressive driving.",
+            "metadata_tags": ["Braking System", "Porsche 911 Turbo"]
+        },
+        {
+            "specification": "The Nissan Altima's ProPilot Assist system integrates adaptive cruise control and lane centering technology to assist drivers with maintaining a safe distance from the vehicle ahead and staying centered in their lane on the highway.",
+            "metadata_tags": ["ProPilot Assist", "Nissan Altima"]
+        },
+        {
+            "specification": "The Volvo XC90's Pilot Assist feature includes advanced driver assistance systems such as adaptive cruise control and pilot steering. This feature provides semi-autonomous driving capabilities, helping the driver maintain a safe following distance and lane position on highways.",
+            "metadata_tags": ["Pilot Assist", "Volvo XC90"]
+        },
+        {
+            "specification": "The BMW i8's hybrid powertrain combines a 1.5L turbocharged three-cylinder engine with an electric motor to deliver exceptional performance and efficiency. The system includes a high-capacity lithium-ion battery for extended electric-only driving range.",
+            "metadata_tags": ["Hybrid Powertrain", "BMW i8"]
+        },
+        {
+            "specification": "The Ford Mustang's Shelby GT500 model features a supercharged V8 engine capable of delivering over 700 horsepower. The engine is paired with a performance-tuned suspension system and high-performance tires to provide exceptional handling and acceleration.",
+            "metadata_tags": ["Engine", "Ford Mustang Shelby GT500"]
+        },
+        {
+            "specification": "The Audi A4's virtual cockpit is a fully digital instrument display that replaces traditional analog gauges with a high-resolution screen. The system provides customizable displays for navigation, driving information, and media controls.",
+            "metadata_tags": ["Virtual Cockpit", "Audi A4"]
+        },
+        {
+            "specification": "The Chevrolet Corvette Stingray's Z51 Performance Package includes an enhanced cooling system, performance suspension, and larger brakes. This package is designed to optimize track performance and provide improved handling and braking capabilities.",
+            "metadata_tags": ["Performance Package", "Chevrolet Corvette Stingray"]
+        },
+        {
+            "specification": "The Hyundai Palisade’s rear-seat entertainment system includes dual 10.2-inch screens mounted on the back of the front seats, allowing rear passengers to enjoy movies and games during long trips. The system supports various media sources and includes wireless headphones.",
+            "metadata_tags": ["Rear-Seat Entertainment", "Hyundai Palisade"]
+        },
+        {
+            "specification": "The Lexus LS's climate control system features a multi-zone setup with individual temperature controls for the driver, front passenger, and rear passengers. The system includes advanced air purification technology to enhance cabin air quality.",
+            "metadata_tags": ["Climate Control System", "Lexus LS"]
+        },
+        {
+            "specification": "The Mercedes-Benz G-Class's off-road package includes features such as three locking differentials and an adjustable suspension system. These features are designed to improve traction and stability on challenging off-road terrains.",
+            "metadata_tags": ["Off-Road Package", "Mercedes-Benz G-Class"]
+        },
+        {
+            "specification": "The Infiniti QX80’s towing package includes a heavy-duty trailer hitch, enhanced cooling system, and integrated brake controller. This package is designed to support increased towing capacities and provide added safety when hauling large loads.",
+            "metadata_tags": ["Towing Package", "Infiniti QX80"]
+        },
+        {
+            "specification": "The Jaguar I-PACE's all-electric powertrain includes dual electric motors and a large battery pack to deliver impressive acceleration and a long driving range. The vehicle's regenerative braking system helps extend the range and enhance overall efficiency.",
+            "metadata_tags": ["All-Electric Powertrain", "Jaguar I-PACE"]
+        },
+        {
+            "specification": "The Porsche Panamera’s adaptive air suspension system adjusts the ride height based on driving conditions and selected driving modes. The system provides enhanced comfort and performance, optimizing the driving experience in various scenarios.",
+            "metadata_tags": ["Adaptive Air Suspension", "Porsche Panamera"]
+        },
+        {
+            "specification": "The Toyota Land Cruiser's multi-terrain monitor system includes cameras mounted around the vehicle to provide a 360-degree view of the surroundings. This system helps drivers navigate off-road obstacles and enhances overall safety during off-road driving.",
+            "metadata_tags": ["Multi-Terrain Monitor", "Toyota Land Cruiser"]
+        },
+        {
+            "specification": "The BMW 7 Series' executive lounge seating package includes reclining rear seats with massage functions and premium leather upholstery. This package is designed to provide maximum comfort and luxury for rear-seat passengers.",
+            "metadata_tags": ["Executive Lounge Seating", "BMW 7 Series"]
+        },
+        {
+            "specification": "The Tesla Model S Plaid features a tri-motor all-wheel-drive system that provides exceptional acceleration and handling. The vehicle's high-performance battery pack enables a long driving range and rapid charging capabilities.",
+            "metadata_tags": ["Tri-Motor System", "Tesla Model S Plaid"]
+        },
+        {
+            "specification": "The Audi Q5's MMI touch response system includes a dual touchscreen setup with haptic feedback for controlling various vehicle functions. The system supports gesture controls and voice commands for an intuitive user experience.",
+            "metadata_tags": ["MMI Touch Response", "Audi Q5"]
+        },
+        {
+            "specification": "The Mercedes-Benz E-Class’s Driver Assistance Package includes features such as active blind-spot assist, active lane-keeping assist, and adaptive cruise control. These systems are designed to enhance driver safety and convenience.",
+            "metadata_tags": ["Driver Assistance Package", "Mercedes-Benz E-Class"]
+        },
+        {
+            "specification": "The Ford Explorer's ST Performance Package includes a high-output turbocharged engine, sport-tuned suspension, and performance brakes. This package is intended to provide a sportier driving experience and improved handling characteristics.",
+            "metadata_tags": ["ST Performance Package", "Ford Explorer"]
+        },
+        {
+            "specification": "The Volvo S60's Pilot Assist system offers semi-autonomous driving capabilities, including adaptive cruise control and lane-keeping assistance. This system uses radar and cameras to support the driver in maintaining safe distance and lane position on highways.",
+            "metadata_tags": ["Pilot Assist", "Volvo S60"]
+        },
+        {
+            "specification": "The Hyundai Tucson’s digital instrument cluster includes a high-resolution screen that displays critical driving information such as speed, navigation directions, and safety alerts. The display is customizable to suit the driver’s preferences.",
+            "metadata_tags": ["Digital Instrument Cluster", "Hyundai Tucson"]
+        },
+        {
+            "specification": "The Nissan Rogue's ProPILOT Park system enables hands-free parking by using sensors and cameras to automatically steer, accelerate, and brake the vehicle into parking spaces. This system simplifies the parking process for the driver.",
+            "metadata_tags": ["ProPILOT Park", "Nissan Rogue"]
+        },
+        {
+            "specification": "The Subaru Ascent's Eyesight Driver Assist Technology includes features such as adaptive cruise control, pre-collision braking, and lane departure warning. This system uses cameras to monitor traffic conditions and assist the driver in avoiding accidents.",
+            "metadata_tags": ["Eyesight Driver Assist", "Subaru Ascent"]
+        },
+        {
+            "specification": "The Jaguar F-PACE’s InControl Touch Pro system features a high-resolution touchscreen with smartphone integration, navigation, and media controls. The system provides a user-friendly interface for managing various vehicle functions and entertainment options.",
+            "metadata_tags": ["InControl Touch Pro", "Jaguar F-PACE"]
+        },
+        {
+            "specification": "The Chevrolet Tahoe's rear-seat climate control system allows rear passengers to adjust the temperature and airflow independently of the front seats. This system includes rear air vents and controls for improved passenger comfort.",
+            "metadata_tags": ["Rear-Seat Climate Control", "Chevrolet Tahoe"]
+        },
+        {
+            "specification": "The Mercedes-Benz CLA’s AMG Performance Package includes a high-performance engine, sport-tuned suspension, and aerodynamic enhancements. This package is designed to deliver an exhilarating driving experience with improved handling and acceleration.",
+            "metadata_tags": ["AMG Performance Package", "Mercedes-Benz CLA"]
+        },
+        {
+            "specification": "The BMW X5's xDrive all-wheel-drive system features an electronically controlled differential to distribute power between the front and rear axles for optimal traction and stability. The system adapts to changing road conditions to enhance performance.",
+            "metadata_tags": ["xDrive System", "BMW X5"]
+        },
+        {
+            "specification": "The Lexus RX’s Mark Levinson premium audio system includes a 15-speaker setup and advanced digital signal processing technology. This system is designed to deliver superior sound quality and a concert-like listening experience in the cabin.",
+            "metadata_tags": ["Mark Levinson Audio System", "Lexus RX"]
+        },
+        {
+            "specification": "The Porsche Cayenne’s adaptive cruise control system uses radar and cameras to maintain a safe distance from the vehicle ahead and adjust the speed accordingly. The system includes stop-and-go functionality for improved convenience in traffic.",
+            "metadata_tags": ["Adaptive Cruise Control", "Porsche Cayenne"]
+        },
+        {
+            "specification": "The Audi A6’s quattro all-wheel-drive system provides enhanced traction and stability in various driving conditions. The system uses an electronically controlled center differential to distribute power between the front and rear axles as needed.",
+            "metadata_tags": ["quattro All-Wheel-Drive", "Audi A6"]
+        },
+        {
+            "specification": "The Ford Escape’s SYNC 3 infotainment system includes a 8-inch touchscreen with voice-activated controls, navigation, and smartphone integration. The system offers a user-friendly interface for accessing media, navigation, and phone functions.",
+            "metadata_tags": ["SYNC 3 Infotainment", "Ford Escape"]
+        },
+        {
+            "specification": "The Tesla Model X features Falcon Wing doors that open upward for easy access to the second and third rows of seating. This unique door design is intended to provide improved accessibility in tight parking spaces.",
+            "metadata_tags": ["Falcon Wing Doors", "Tesla Model X"]
+        },
+        {
+            "specification": "The Infiniti Q50’s sport-tuned suspension includes upgraded shock absorbers and anti-roll bars for enhanced handling and ride comfort. This suspension system is designed to provide a more dynamic driving experience and better cornering performance.",
+            "metadata_tags": ["Sport-Tuned Suspension", "Infiniti Q50"]
+        },
+        {
+            "specification": "The Subaru Legacy’s EyeSight Driver Assist Technology includes pre-collision braking, adaptive cruise control, and lane departure warning. These features use cameras and radar to help the driver avoid accidents and maintain a safe driving distance.",
+            "metadata_tags": ["EyeSight Technology", "Subaru Legacy"]
+        },
+        {
+            "specification": "The BMW 4 Series’ iDrive 7.0 system includes a high-resolution touchscreen and a rotary controller for managing vehicle functions, navigation, and entertainment. The system offers intuitive controls and supports voice commands.",
+            "metadata_tags": ["iDrive 7.0 System", "BMW 4 Series"]
+        },
+        {
+            "specification": "The Jaguar E-PACE's cabin features a customizable ambient lighting system with multiple color options. The system allows drivers to set the interior lighting according to their preferences and mood.",
+            "metadata_tags": ["Ambient Lighting", "Jaguar E-PACE"]
+        },
+        {
+            "specification": "The Volvo XC60’s Bowers & Wilkins audio system includes a 15-speaker setup and advanced sound engineering technology for an immersive listening experience. The system is designed to deliver high-fidelity sound quality throughout the cabin.",
+            "metadata_tags": ["Bowers & Wilkins Audio System", "Volvo XC60"]
+        },
+        {
+            "specification": "The Audi Q3's lane departure warning system alerts the driver if the vehicle begins to drift out of its lane without signaling. The system uses cameras to monitor lane markings and provides visual and audible warnings.",
+            "metadata_tags": ["Lane Departure Warning", "Audi Q3"]
+        },
+        {
+            "specification": "The Nissan Titan’s off-road package includes skid plates, all-terrain tires, and an upgraded suspension system to enhance off-road capability and durability. The package is designed for drivers who frequently venture off the beaten path.",
+            "metadata_tags": ["Off-Road Package", "Nissan Titan"]
+        },
+        {
+            "specification": "The Honda CR-V’s collision mitigation braking system uses sensors to detect potential frontal collisions and automatically applies the brakes to help avoid or reduce the severity of an impact.",
+            "metadata_tags": ["Collision Mitigation Braking", "Honda CR-V"]
+        },
+        {
+            "specification": "The Genesis G80’s driver attention warning system monitors driver behavior and provides alerts if it detects signs of drowsiness or distraction. The system uses cameras and sensors to assess driving patterns and enhance safety.",
+            "metadata_tags": ["Driver Attention Warning", "Genesis G80"]
+        },
+        {
+            "specification": "The Mercedes-Benz GLS’s adjustable air suspension system allows drivers to modify the ride height based on driving conditions. The system provides improved comfort and handling by adapting to various road surfaces.",
+            "metadata_tags": ["Adjustable Air Suspension", "Mercedes-Benz GLS"]
+        },
+        {
+            "specification": "The BMW X7's rear-seat entertainment system includes dual 10-inch displays with wireless headphones and streaming capabilities. The system allows rear passengers to enjoy movies and games during long journeys.",
+            "metadata_tags": ["Rear-Seat Entertainment", "BMW X7"]
+        },
+        {
+            "specification": "The Land Rover Range Rover's Terrain Response 2 system includes settings for different driving conditions such as mud, sand, and gravel. The system adjusts the vehicle’s settings to optimize traction and stability on various surfaces.",
+            "metadata_tags": ["Terrain Response 2", "Land Rover Range Rover"]
+        },
+        {
+            "specification": "The Kia Telluride’s blind-spot monitoring system uses sensors to detect vehicles in the blind spots and provides visual and audible alerts to help the driver change lanes safely.",
+            "metadata_tags": ["Blind-Spot Monitoring", "Kia Telluride"]
+        },
+        {
+            "specification": "The Mazda CX-5’s heads-up display projects important driving information onto the windshield, allowing the driver to keep their eyes on the road while accessing key data such as speed and navigation directions.",
+            "metadata_tags": ["Heads-Up Display", "Mazda CX-5"]
+        },
+        {
+            "specification": "The Audi A3’s adaptive cruise control system includes stop-and-go functionality to maintain a safe distance from the vehicle ahead and automatically adjust the speed based on traffic conditions.",
+            "metadata_tags": ["Adaptive Cruise Control", "Audi A3"]
+        },
+        {
+            "specification": "The Tesla Model 3’s Long Range battery pack should provide a minimum driving range of 350 miles on a full charge. The battery pack must be compatible with the vehicle's thermal management system for optimal performance.",
+            "metadata_tags": ["Long Range Battery Pack", "Tesla Model 3"]
+        },
+        {
+            "specification": "The Ford F-150’s EcoBoost engine requires a twin-turbocharger system to deliver at least 400 horsepower. The turbochargers must be designed to handle high temperatures and boost pressures.",
+            "metadata_tags": ["EcoBoost Engine", "Ford F-150"]
+        },
+        {
+            "specification": "The BMW X5’s xDrive system must include an electronically controlled all-wheel drive unit to provide optimal traction and handling under various road conditions. The system should integrate with the vehicle’s stability control.",
+            "metadata_tags": ["xDrive System", "BMW X5"]
+        },
+        {
+            "specification": "The Honda Accord’s adaptive cruise control system should feature radar and camera sensors capable of maintaining a set distance from the vehicle ahead, even in stop-and-go traffic. The system must be calibrated for various driving conditions.",
+            "metadata_tags": ["Adaptive Cruise Control", "Honda Accord"]
+        },
+        {
+            "specification": "The Chevrolet Corvette’s Z51 performance brakes should include carbon-ceramic rotors and high-performance calipers. The brakes must be engineered for high durability and efficient heat dissipation during track use.",
+            "metadata_tags": ["Z51 Performance Brakes", "Chevrolet Corvette"]
+        },
+        {
+            "specification": "The Audi Q7’s adaptive air suspension must provide adjustable ride height and damping settings. The system should allow for varying ride comfort and off-road capability based on driver preferences and road conditions.",
+            "metadata_tags": ["Adaptive Air Suspension", "Audi Q7"]
+        },
+        {
+            "specification": "The Subaru Outback’s EyeSight Driver Assist Technology must include stereo cameras that monitor traffic movement, detect lane departure, and apply pre-collision braking if necessary. The cameras should be installed in a precise alignment for accurate operation.",
+            "metadata_tags": ["EyeSight Driver Assist Technology", "Subaru Outback"]
+        },
+        {
+            "specification": "The Nissan Rogue’s ProPILOT Assist system should feature a combination of adaptive cruise control, lane-keeping assistance, and traffic sign recognition. The system must be integrated with the vehicle’s electronic control unit for seamless operation.",
+            "metadata_tags": ["ProPILOT Assist System", "Nissan Rogue"]
+        },
+        {
+            "specification": "The Mercedes-Benz S-Class’s Burmester 4D surround sound system requires a 32-speaker array and advanced digital signal processing to deliver high-fidelity audio. The system must be calibrated for optimal acoustics within the vehicle’s cabin.",
+            "metadata_tags": ["Burmester 4D Surround Sound System", "Mercedes-Benz S-Class"]
+        },
+        {
+            "specification": "The Volvo XC60’s Pilot Assist system should integrate radar and camera sensors to provide semi-autonomous driving capabilities. The system must support lane-keeping, adaptive cruise control, and emergency braking functionalities.",
+            "metadata_tags": ["Pilot Assist System", "Volvo XC60"]
+        },
+        {
+            "specification": "The Ram 1500’s HEMI V8 engine must feature a cast aluminum block and forged steel crankshaft to deliver at least 395 horsepower. The engine design should focus on reliability and performance under heavy load conditions.",
+            "metadata_tags": ["HEMI V8 Engine", "Ram 1500"]
+        },
+        {
+            "specification": "The Jaguar F-PACE’s all-wheel-drive system should include an active differential that can adjust torque distribution between the front and rear wheels. The system must enhance traction and stability in varying driving conditions.",
+            "metadata_tags": ["All-Wheel-Drive System", "Jaguar F-PACE"]
+        },
+        {
+            "specification": "The BMW M2’s M Carbon bucket seats require lightweight carbon fiber construction and integrated harness slots. The seats must provide high lateral support for performance driving while maintaining comfort for everyday use.",
+            "metadata_tags": ["M Carbon Bucket Seats", "BMW M2"]
+        },
+        {
+            "specification": "The Acura MDX’s SH-AWD system must feature an advanced torque vectoring capability to improve handling and stability. The system should distribute power between the front and rear wheels as well as between the left and right rear wheels.",
+            "metadata_tags": ["SH-AWD System", "Acura MDX"]
+        },
+        {
+            "specification": "The Hyundai Kona Electric’s high-voltage charging port should support both Level 2 AC charging and DC fast charging. The port must be compatible with various charging standards and provide efficient power delivery for rapid charging.",
+            "metadata_tags": ["High-Voltage Charging Port", "Hyundai Kona Electric"]
+        },
+        {
+            "specification": "The Toyota Highlander’s Multi-Terrain Select system should allow drivers to choose from various terrain modes such as mud, sand, and snow. The system must adjust vehicle settings to optimize performance based on the selected terrain.",
+            "metadata_tags": ["Multi-Terrain Select System", "Toyota Highlander"]
+        },
+        {
+            "specification": "The Porsche Panamera’s adaptive cruise control should feature stop-and-go functionality, radar sensors, and a camera system to maintain safe distances and adjust speed based on traffic conditions. The system should be integrated with the vehicle’s navigation for better route management.",
+            "metadata_tags": ["Adaptive Cruise Control", "Porsche Panamera"]
+        },
+        {
+            "specification": "The Ford Explorer’s Terrain Management System should provide multiple drive modes including sport, eco, and tow/haul. The system must adjust the vehicle’s powertrain and suspension settings to match the selected mode for improved performance and efficiency.",
+            "metadata_tags": ["Terrain Management System", "Ford Explorer"]
+        },
+        {
+            "specification": "The Land Rover Defender’s electronically controlled air suspension should offer adjustable ride height and damping settings for on- and off-road driving. The system must be designed to handle various load conditions and terrains.",
+            "metadata_tags": ["Electronically Controlled Air Suspension", "Land Rover Defender"]
+        },
+        {
+            "specification": "The Cadillac Escalade’s Magnetic Ride Control suspension system should use magnetorheological fluid to provide real-time damping adjustments. The system must enhance ride comfort and handling by adjusting suspension stiffness based on road conditions.",
+            "metadata_tags": ["Magnetic Ride Control Suspension System", "Cadillac Escalade"]
+        },
+        {
+            "specification": "The Tesla Model Y’s heat pump system should efficiently manage cabin temperature and extend driving range. The system must be integrated with the vehicle’s climate control to optimize energy use and maintain comfort in various weather conditions.",
+            "metadata_tags": ["Heat Pump System", "Tesla Model Y"]
+        },
+        {
+            "specification": "The Volkswagen Atlas’s digital cockpit should feature a 12.3-inch display with customizable information and navigation functions. The system must be integrated with the vehicle’s infotainment and driver assistance systems for seamless user experience.",
+            "metadata_tags": ["Digital Cockpit", "Volkswagen Atlas"]
+        },
+        {
+            "specification": "The Infiniti QX60’s ProPILOT Assist system should include adaptive cruise control, lane centering, and traffic sign recognition. The system must provide semi-autonomous driving capabilities to enhance safety and convenience.",
+            "metadata_tags": ["ProPILOT Assist System", "Infiniti QX60"]
+        },
+        {
+            "specification": "The BMW 3 Series’ Active Driving Assistant should feature blind-spot monitoring, lane departure warning, and a rear cross-traffic alert system. The system must be designed to provide comprehensive safety assistance for urban and highway driving.",
+            "metadata_tags": ["Active Driving Assistant", "BMW 3 Series"]
+        },
+        {
+            "specification": "The Mazda CX-5’s i-Activ AWD system should include sensors that monitor wheel slippage and adjust power distribution between the front and rear wheels. The system must enhance traction and stability in adverse driving conditions.",
+            "metadata_tags": ["i-Activ AWD System", "Mazda CX-5"]
+        },
+        {
+            "specification": "The Hyundai Sonata’s remote start system should allow the vehicle to be started from a distance using a mobile app. The system must include features for pre-conditioning the cabin and setting the climate control before entering the vehicle.",
+            "metadata_tags": ["Remote Start System", "Hyundai Sonata"]
+        },
+        {
+            "specification": "The Jeep Grand Cherokee’s Quadra-Lift air suspension system should offer adjustable ride height for on- and off-road driving. The system must provide several height settings to improve ground clearance and approach/departure angles.",
+            "metadata_tags": ["Quadra-Lift Air Suspension System", "Jeep Grand Cherokee"]
+        },
+        {
+            "specification": "The Nissan 370Z’s NISMO performance exhaust system should include dual exhaust pipes with high-flow mufflers and tips. The system must be designed to enhance engine sound and performance while minimizing emissions.",
+            "metadata_tags": ["NISMO Performance Exhaust System", "Nissan 370Z"]
+        },
+        {
+            "specification": "The Acura TLX’s Super Handling All-Wheel Drive (SH-AWD) system should feature a rear differential that can distribute torque between the rear wheels for improved handling and cornering. The system must be engineered for high responsiveness and stability.",
+            "metadata_tags": ["Super Handling All-Wheel Drive (SH-AWD) System", "Acura TLX"]
+        },
+        {
+            "specification": "The Lexus RX’s hybrid powertrain should include a high-efficiency electric motor paired with a V6 engine. The system must deliver smooth acceleration and optimal fuel efficiency while maintaining low emissions.",
+            "metadata_tags": ["Hybrid Powertrain", "Lexus RX"]
+        },
+        {
+            "specification": "The Toyota Land Cruiser’s KDSS (Kinetic Dynamic Suspension System) should include active sway bars that adjust to driving conditions. The system must enhance off-road capability and on-road comfort by minimizing body roll.",
+            "metadata_tags": ["KDSS System", "Toyota Land Cruiser"]
+        },
+        {
+            "specification": "The Volkswagen Passat’s adaptive LED headlights should include dynamic beam control to improve visibility around curves and during adverse weather conditions. The system must provide enhanced illumination while reducing glare for other drivers.",
+            "metadata_tags": ["Adaptive LED Headlights", "Volkswagen Passat"]
+        },
+        {
+            "specification": "The Subaru WRX’s Multi-Mode DCCD (Driver Controlled Center Differential) system should offer adjustable torque distribution between the front and rear wheels. The system must improve handling and stability based on driving conditions and driver preferences.",
+            "metadata_tags": ["Multi-Mode DCCD System", "Subaru WRX"]
+        },
+        {
+            "specification": "The Porsche Macan’s Sport Chrono Package should include a performance-oriented drive mode selector and a launch control system. The package must enhance acceleration and handling characteristics for a sportier driving experience.",
+            "metadata_tags": ["Sport Chrono Package", "Porsche Macan"]
+        },
+        {
+            "specification": "The BMW Z4’s M Performance brakes should feature larger rotors and high-performance calipers to enhance stopping power and fade resistance. The brakes must be engineered for high track performance and durability.",
+            "metadata_tags": ["M Performance Brakes", "BMW Z4"]
+        },
+        {
+            "specification": "The Ford Mustang Mach-E’s extended-range battery should provide a driving range of up to 300 miles. The battery must be compatible with high-speed DC fast chargers and support over-the-air updates for battery management.",
+            "metadata_tags": ["Extended-Range Battery", "Ford Mustang Mach-E"]
+        },
+        {
+            "specification": "The Audi A6’s Bang & Olufsen advanced sound system should include a 3D sound stage and multiple speakers throughout the cabin. The system must provide a premium audio experience with high clarity and minimal distortion.",
+            "metadata_tags": ["Bang & Olufsen Sound System", "Audi A6"]
+        },
+        {
+            "specification": "The Mercedes-Benz EQS’s dual-motor all-wheel drive system should deliver seamless torque distribution between the front and rear axles. The system must optimize performance and efficiency for the electric luxury sedan.",
+            "metadata_tags": ["Dual-Motor All-Wheel Drive System", "Mercedes-Benz EQS"]
+        },
+        {
+            "specification": "The Jeep Wrangler’s Rock-Trac transfer case should include a 4:1 low-range gear ratio and electronic front sway bar disconnect. The system must enhance off-road capability and improve traction over challenging terrain.",
+            "metadata_tags": ["Rock-Trac Transfer Case", "Jeep Wrangler"]
+        },
+        {
+            "specification": "The Infiniti QX80’s hydraulic body motion control system should include active stabilizer bars and adjustable shock absorbers. The system must reduce body roll and improve handling comfort during cornering and off-road driving.",
+            "metadata_tags": ["Hydraulic Body Motion Control System", "Infiniti QX80"]
+        },
+        {
+            "specification": "The Toyota Supra’s multi-mode traction control system should offer selectable settings for normal, sport, and track driving. The system must adjust engine power and traction control to match driving conditions and enhance performance.",
+            "metadata_tags": ["Multi-Mode Traction Control System", "Toyota Supra"]
+        },
+        {
+            "specification": "The Hyundai Genesis G80’s 5.0 Ultimate V8 engine should include advanced direct fuel injection and an eight-speed automatic transmission. The engine must deliver a balance of high performance and smooth acceleration.",
+            "metadata_tags": ["5.0 Ultimate V8 Engine", "Hyundai Genesis G80"]
+        },
+        {
+            "specification": "The Cadillac XT4’s 9-speed automatic transmission should feature adaptive shift logic and a rotary gear selector. The transmission must provide smooth shifts and improve fuel efficiency while enhancing driving performance.",
+            "metadata_tags": ["9-Speed Automatic Transmission", "Cadillac XT4"]
+        },
+        {
+            "specification": "The BMW X3’s xDrive30i’s turbocharged inline-four engine should include twin-scroll turbocharging and an integrated water-to-air intercooler. The engine must provide robust power delivery and improve fuel efficiency.",
+            "metadata_tags": ["Turbocharged Inline-Four Engine", "BMW X3"]
+        },
+        {
+            "specification": "The Volkswagen Jetta’s R-Line trim should include sportier bumpers, side skirts, and a rear diffuser. The trim must enhance the vehicle’s aerodynamic profile and provide a more aggressive exterior appearance.",
+            "metadata_tags": ["R-Line Trim", "Volkswagen Jetta"]
+        },
+        {
+            "specification": "The Ford Bronco’s Sasquatch Package should feature high-clearance suspension, 35-inch all-terrain tires, and beadlock-capable wheels. The package must enhance off-road capability and rugged performance for extreme terrain.",
+            "metadata_tags": ["Sasquatch Package", "Ford Bronco"]
+        },
+        {
+            "specification": "The Tesla Roadster’s active aerodynamics should include an adjustable rear spoiler and front air dam. The system must improve aerodynamic efficiency and high-speed stability by dynamically adjusting the vehicle’s aerodynamic profile.",
+            "metadata_tags": ["Active Aerodynamics", "Tesla Roadster"]
+        },
+        {
+            "specification": "The Mercedes-Benz G-Class’s AMG 4.0-liter V8 engine should feature twin-scroll turbochargers and an advanced cooling system. The engine must deliver exceptional power output and maintain reliability under extreme conditions.",
+            "metadata_tags": ["AMG 4.0-Liter V8 Engine", "Mercedes-Benz G-Class"]
+        },
+        {
+            "specification": "The Land Rover Discovery’s Terrain Response 2 system should include automatic terrain detection and customizable driving modes. The system must adjust the vehicle’s settings based on real-time road conditions for optimal performance.",
+            "metadata_tags": ["Terrain Response 2 System", "Land Rover Discovery"]
+        },
+        {
+            "specification": "The Audi e-tron’s electric drive system should include dual motors and a liquid-cooled battery pack. The system must deliver seamless power distribution and maintain battery performance across various driving conditions.",
+            "metadata_tags": ["Electric Drive System", "Audi e-tron"]
+        },
+        {
+            "specification": "The BMW 8 Series’ M Carbon exterior components should include carbon fiber front splitters, side skirts, and rear diffusers. The components must enhance aerodynamics and provide a sporty visual appeal while reducing weight.",
+            "metadata_tags": ["M Carbon Exterior Components", "BMW 8 Series"]
+        },
+        {
+            "specification": "The Porsche Cayenne’s rear-axle steering system should offer enhanced maneuverability at low speeds and increased stability at high speeds. The system must be integrated with the vehicle’s dynamic chassis control for improved handling.",
+            "metadata_tags": ["Rear-Axle Steering System", "Porsche Cayenne"]
+        },
+        {
+            "specification": "The Toyota Avalon’s JBL audio system should include a 14-speaker array with high-fidelity sound processing. The system must deliver clear and immersive audio quality, enhancing the in-car listening experience.",
+            "metadata_tags": ["JBL Audio System", "Toyota Avalon"]
+        },
+        {
+            "specification": "The Jaguar I-PACE’s active noise cancellation system should use microphones and speakers to reduce cabin noise. The system must be designed to create a quieter and more comfortable driving environment.",
+            "metadata_tags": ["Active Noise Cancellation System", "Jaguar I-PACE"]
+        },
+        {
+            "specification": "The Genesis GV70’s 3.5-liter twin-turbo V6 engine should include an advanced intercooler and a high-performance cooling system. The engine must deliver robust power and maintain efficiency under various driving conditions.",
+            "metadata_tags": ["3.5-Liter Twin-Turbo V6 Engine", "Genesis GV70"]
+        },
+        {
+            "specification": "The Volvo S60’s advanced air purification system should include a multi-stage filter and ionizer to enhance cabin air quality. The system must reduce pollutants and allergens for a healthier driving environment.",
+            "metadata_tags": ["Advanced Air Purification System", "Volvo S60"]
+        },
+        {
+            "specification": "The Ford Mach-E’s dual-motor all-wheel-drive system should include an active torque vectoring capability. The system must optimize power distribution between the front and rear wheels for improved performance and handling.",
+            "metadata_tags": ["Dual-Motor All-Wheel-Drive System", "Ford Mach-E"]
+        },
+        {
+            "specification": "The Infiniti QX55’s turbocharged inline-four engine should feature an intercooler and a variable valve timing system. The engine must deliver smooth performance and efficient fuel economy while minimizing emissions.",
+            "metadata_tags": ["Turbocharged Inline-Four Engine", "Infiniti QX55"]
+        },
+        {
+            "specification": "The Audi A4’s quattro all-wheel-drive system should include a center differential that distributes power between the front and rear axles. The system must enhance traction and stability in various driving conditions.",
+            "metadata_tags": ["quattro All-Wheel-Drive System", "Audi A4"]
+        },
+        {
+            "specification": "The Mercedes-Benz GLE’s E-ACTIVE BODY CONTROL suspension system should feature active hydraulic suspension and adjustable ride height. The system must improve ride comfort and handling by dynamically adjusting suspension settings.",
+            "metadata_tags": ["E-ACTIVE BODY CONTROL Suspension System", "Mercedes-Benz GLE"]
+        },
+        {
+            "specification": "The Porsche 911’s Turbo S model should feature an active rear spoiler and a front air diffuser. The components must enhance aerodynamic efficiency and high-speed stability while maintaining a sporty appearance.",
+            "metadata_tags": ["Active Rear Spoiler", "Porsche 911 Turbo S"]
+        },
+        {
+            "specification": "The Chevrolet Silverado’s Z71 off-road package should include a heavy-duty skid plate and off-road tuned suspension. The package must enhance off-road capability and provide improved durability on rough terrain.",
+            "metadata_tags": ["Z71 Off-Road Package", "Chevrolet Silverado"]
+        },
+        {
+            "specification": "The BMW X5’s M50i model should feature a 4.4-liter twin-turbo V8 engine with an active rear differential. The system must deliver high power output and improved handling characteristics for a sporty driving experience.",
+            "metadata_tags": ["4.4-Liter Twin-Turbo V8 Engine", "BMW X5 M50i"]
+        },
+        {
+            "specification": "The Hyundai Tucson’s Blind-Spot Collision-Avoidance Assist should use radar sensors to monitor the vehicle’s blind spots. The system must provide visual and audible warnings and apply automatic braking if necessary to prevent collisions.",
+            "metadata_tags": ["Blind-Spot Collision-Avoidance Assist", "Hyundai Tucson"]
+        },
+        {
+            "specification": "The Lexus ES’s Mark Levinson audio system should include a 17-speaker surround sound setup with Quantum Logic Surround technology. The system must deliver a high-fidelity audio experience with clear and immersive sound.",
+            "metadata_tags": ["Mark Levinson Audio System", "Lexus ES"]
+        },
+        {
+            "specification": "The Subaru Outback’s EyeSight Driver Assist Technology should include adaptive cruise control and pre-collision braking. The system must help enhance safety by providing advanced driver assistance features and collision prevention.",
+            "metadata_tags": ["EyeSight Driver Assist Technology", "Subaru Outback"]
+        },
+        {
+            "specification": "The Audi Q7’s quattro all-wheel drive system should feature a self-locking center differential and an optional rear-wheel steering system. The system must improve traction and maneuverability in various driving conditions.",
+            "metadata_tags": ["quattro All-Wheel Drive System", "Audi Q7"]
+        },
+        {
+            "specification": "The Ford F-150’s Tremor Package should include off-road shocks, skid plates, and an electronic-locking rear differential. The package must enhance the truck’s off-road capabilities and rugged performance for challenging terrains.",
+            "metadata_tags": ["Tremor Package", "Ford F-150"]
+        },
+        {
+            "specification": "The Toyota Camry’s adaptive cruise control system should include lane-tracing assist and automatic lane-keeping. The system must provide enhanced driving convenience and safety by maintaining a safe distance from the vehicle ahead.",
+            "metadata_tags": ["Adaptive Cruise Control System", "Toyota Camry"]
+        },
+        {
+            "specification": "The Mercedes-Benz C-Class’s AMG Night Package should feature gloss black exterior trim, blacked-out grille, and sportier design elements. The package must enhance the vehicle’s appearance with a sleek and aggressive style.",
+            "metadata_tags": ["AMG Night Package", "Mercedes-Benz C-Class"]
+        },
+        {
+            "specification": "The Jaguar F-PACE’s R-Dynamic trim should include sportier exterior accents, performance-oriented suspension, and enhanced interior features. The trim must provide a more dynamic driving experience and a distinctive look.",
+            "metadata_tags": ["R-Dynamic Trim", "Jaguar F-PACE"]
+        },
+        {
+            "specification": "The Cadillac Escalade’s Magnetic Ride Control suspension should use advanced shock absorbers and real-time damping adjustments. The system must deliver a smooth and responsive ride by continuously adapting to road conditions.",
+            "metadata_tags": ["Magnetic Ride Control Suspension", "Cadillac Escalade"]
+        },
+        {
+            "specification": "The Volvo XC90’s Bowers & Wilkins audio system should include a 19-speaker setup with a crystal-clear sound experience. The system must provide premium audio quality and enhance the in-car entertainment experience.",
+            "metadata_tags": ["Bowers & Wilkins Audio System", "Volvo XC90"]
+        },
+        {
+            "specification": "The Nissan Rogue’s ProPILOT Assist system should include adaptive cruise control and lane-centering technology. The system must assist with steering and maintaining a safe following distance for a more relaxed driving experience.",
+            "metadata_tags": ["ProPILOT Assist System", "Nissan Rogue"]
+        },
+        {
+            "specification": "The Genesis GV80’s 3.5-liter turbocharged V6 engine should feature an advanced cooling system and a high-performance intercooler. The engine must deliver strong power output and maintain efficiency under various driving conditions.",
+            "metadata_tags": ["3.5-Liter Turbocharged V6 Engine", "Genesis GV80"]
+        },
+        {
+            "specification": "The Land Rover Defender’s Air Suspension system should offer adjustable ride height and enhanced off-road capability. The system must provide improved comfort and ground clearance for tackling rugged terrains.",
+            "metadata_tags": ["Air Suspension System", "Land Rover Defender"]
+        },
+        {
+            "specification": "The BMW 7 Series’ Active Driving Assistant should include features such as lane departure warning, active blind-spot detection, and a rearview camera. The system must enhance overall driving safety and assist with collision avoidance.",
+            "metadata_tags": ["Active Driving Assistant", "BMW 7 Series"]
+        },
+        {
+            "specification": "The Audi Q5’s Matrix LED headlights should include adaptive high beams and dynamic turn signals. The system must provide improved visibility and enhance safety by adjusting the light distribution based on driving conditions.",
+            "metadata_tags": ["Matrix LED Headlights", "Audi Q5"]
+        },
+        {
+            "specification": "The Hyundai Palisade’s 12.3-inch digital instrument cluster should feature customizable displays and advanced navigation integration. The cluster must provide clear and detailed information for enhanced driver convenience and safety.",
+            "metadata_tags": ["12.3-Inch Digital Instrument Cluster", "Hyundai Palisade"]
+        },
+        {
+            "specification": "The Porsche Panamera’s Sport Chrono Package should include a mode switch for dynamic driving modes and a stopwatch. The package must enhance performance by providing options for various driving conditions and track-focused features.",
+            "metadata_tags": ["Sport Chrono Package", "Porsche Panamera"]
+        },
+        {
+            "specification": "The Ford Explorer’s ST model should include a 3.0-liter twin-turbo V6 engine and an active performance exhaust system. The engine must deliver high performance and the exhaust system should enhance the sporty driving experience with a distinctive sound.",
+            "metadata_tags": ["3.0-Liter Twin-Turbo V6 Engine", "Ford Explorer ST"]
+        },
+        {
+            "specification": "The Toyota RAV4’s TRD Off-Road Package should feature a specially tuned suspension, all-terrain tires, and a multi-terrain monitor. The package must enhance off-road performance and provide improved traction on various surfaces.",
+            "metadata_tags": ["TRD Off-Road Package", "Toyota RAV4"]
+        },
+        {
+            "specification": "The Lexus LC 500’s V8 engine should include an advanced intake system and a high-performance exhaust. The engine must provide exhilarating acceleration and a distinctive engine sound for a premium driving experience.",
+            "metadata_tags": ["V8 Engine", "Lexus LC 500"]
+        },
+        {
+            "specification": "The Audi A8’s adaptive air suspension system should feature automatic ride height adjustment and dynamic damping control. The system must deliver a smooth and comfortable ride while adapting to different driving conditions.",
+            "metadata_tags": ["Adaptive Air Suspension System", "Audi A8"]
+        },
+        {
+            "specification": "The Mercedes-Benz S-Class’s MBUX infotainment system should include a large touch screen and voice recognition capabilities. The system must provide intuitive control and enhanced connectivity for a modern in-car experience.",
+            "metadata_tags": ["MBUX Infotainment System", "Mercedes-Benz S-Class"]
+        },
+        {
+            "specification": "The Chevrolet Corvette’s Z06 model should include a high-performance 5.5-liter V8 engine and a carbon fiber aerodynamic package. The engine must deliver exceptional power and the package should improve high-speed stability and cornering performance.",
+            "metadata_tags": ["5.5-Liter V8 Engine", "Chevrolet Corvette Z06"]
+        },
+        {
+            "specification": "The BMW i4’s high-voltage battery pack should provide a driving range of up to 300 miles on a full charge. The battery pack must support fast charging and offer high energy density for extended range and convenience.",
+            "metadata_tags": ["High-Voltage Battery Pack", "BMW i4"]
+        },
+        {
+            "specification": "The Volvo XC60’s Pilot Assist system should include semi-autonomous driving capabilities and adaptive cruise control. The system must assist with steering and maintain a safe distance from the vehicle ahead for a more relaxed driving experience.",
+            "metadata_tags": ["Pilot Assist System", "Volvo XC60"]
+        },
+        {
+            "specification": "The Audi RS6 Avant’s adaptive air suspension should include a sport mode and adjustable ride height. The system must enhance handling and comfort by adjusting the suspension settings based on driving conditions.",
+            "metadata_tags": ["Adaptive Air Suspension", "Audi RS6 Avant"]
+        },
+        {
+            "specification": "The Mercedes-Benz E-Class’s DISTRONIC Plus system should include adaptive cruise control with lane-keeping assist. The system must provide enhanced driving convenience by maintaining speed and distance while assisting with lane-keeping.",
+            "metadata_tags": ["DISTRONIC Plus System", "Mercedes-Benz E-Class"]
+        },
+        {
+            "specification": "The Tesla Model X’s falcon-wing doors should include advanced sensors for obstacle detection and automatic opening mechanisms. The doors must provide easy access to the rear seats while enhancing the vehicle’s distinctive design.",
+            "metadata_tags": ["Falcon-Wing Doors", "Tesla Model X"]
+        },
+        {
+            "specification": "The Jaguar I-PACE’s all-electric powertrain should include a 90 kWh battery pack and dual electric motors. The powertrain must deliver impressive acceleration and long-range capability for a premium electric driving experience.",
+            "metadata_tags": ["All-Electric Powertrain", "Jaguar I-PACE"]
+        },
+        {
+            "specification": "The Ford Mustang’s GT model should feature a 5.0-liter V8 engine with a high-performance intake manifold and tuned exhaust system. The engine must provide a thrilling driving experience with powerful acceleration and distinctive sound.",
+            "metadata_tags": ["5.0-Liter V8 Engine", "Ford Mustang GT"]
+        },
+        {
+            "specification": "The Hyundai Elantra’s N model should include a sport-tuned suspension and performance-oriented brakes. The system must enhance handling and braking performance for a dynamic and engaging driving experience.",
+            "metadata_tags": ["Sport-Tuned Suspension", "Hyundai Elantra N"]
+        },
+        {
+            "specification": "The Porsche Macan’s Performance Package should feature an upgraded turbocharged engine and enhanced brakes. The package must improve acceleration and handling while providing a more exhilarating driving experience.",
+            "metadata_tags": ["Performance Package", "Porsche Macan"]
+        },
+        {
+            "specification": "The Land Rover Discovery’s Terrain Response system should include multiple driving modes for different off-road conditions. The system must optimize vehicle performance based on terrain type, such as mud, sand, and rock.",
+            "metadata_tags": ["Terrain Response System", "Land Rover Discovery"]
+        },
+        {
+            "specification": "The BMW M3’s Competition Package should include a high-performance exhaust system and upgraded suspension components. The package must enhance track performance and provide a more engaging driving experience.",
+            "metadata_tags": ["Competition Package", "BMW M3"]
+        },
+        {
+            "specification": "The Audi A3’s S line package should feature sportier exterior styling, including unique front and rear bumpers and side skirts. The package must enhance the vehicle’s visual appeal and sporty character.",
+            "metadata_tags": ["S Line Package", "Audi A3"]
+        },
+        {
+            "specification": "The Mercedes-Benz G-Class’s AMG Performance Exhaust should include adjustable exhaust valves and an active sound system. The exhaust must provide an aggressive engine note and allow for customization of the exhaust sound.",
+            "metadata_tags": ["AMG Performance Exhaust", "Mercedes-Benz G-Class"]
+        },
+        {
+            "specification": "The Lexus RX’s Luxury Package should include premium leather upholstery, a panoramic sunroof, and a power-adjustable rear seat. The package must enhance comfort and luxury for both the driver and passengers.",
+            "metadata_tags": ["Luxury Package", "Lexus RX"]
+        },
+        {
+            "specification": "The Toyota Supra’s TRD Performance Package should feature an upgraded suspension and a rear carbon fiber spoiler. The package must improve handling and aerodynamics for a more spirited driving experience.",
+            "metadata_tags": ["TRD Performance Package", "Toyota Supra"]
+        },
+        {
+            "specification": "The Nissan Altima’s ProPILOT Park system should include automatic parking assist and intelligent parking sensors. The system must provide convenience by allowing the vehicle to park itself with minimal driver intervention.",
+            "metadata_tags": ["ProPILOT Park System", "Nissan Altima"]
+        },
+        {
+            "specification": "The Subaru Legacy’s EyeSight Driver Assist system should feature a pre-collision throttle management and lane departure warning. The system must enhance safety by providing additional collision prevention features and lane-keeping assistance.",
+            "metadata_tags": ["EyeSight Driver Assist System", "Subaru Legacy"]
+        }
+    ]
+}
